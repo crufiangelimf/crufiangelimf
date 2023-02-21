@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+![logo](https://github.com/crufiangelimf/crufiangelimf/blob/main/assets/pikachu.jpg)
 
 <!--
 **crufiangelimf/crufiangelimf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
